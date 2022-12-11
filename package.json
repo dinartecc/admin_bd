@@ -4,7 +4,7 @@
   "description": "",
   "main": "server/server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mssql": "^5.1.0",
     "table-builder": "^2.1.1"
   },
